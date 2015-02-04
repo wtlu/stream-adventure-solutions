@@ -1,4 +1,4 @@
-// Exercise 8
+// Exercise 8 - HTTP Client
 // Send an HTTP POST request to http://localhost:8000 and pipe process.stdin into
 // it. Pipe the response stream to process.stdout.
 
